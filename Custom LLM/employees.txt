@@ -1,0 +1,2500 @@
+Name: Jennifer Kaitlyn
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Karen Gabriel
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'Experience with frontend frameworks (e.g., React, Angular)', 'Cross-browser compatibility']
+Weakness: Inconsistent documentation practices
+
+Name: Vanessa George
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Blaine Taylor
+Job Title: Scrum Master
+Skills: ['Servant leadership']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Ryan Aisha
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Alex Mia
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Noah Elijah
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency', 'UI/UX design principles']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Bowen Dillon
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Team facilitation and collaboration', 'Metrics and reporting']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Carter David
+Job Title: Product Manager
+Skills: ['Stakeholder communication']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Henry Thomas
+Job Title: Product Manager
+Skills: ['Decision-making and prioritization']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Karen Alex
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Data visualization', 'Data manipulation and cleaning']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Dylan Jordan
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Brianna Robert
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Dominic Aisha
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Product strategy and roadmap planning', 'Market research and customer feedback analysis']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Cole Adira
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Cody Alice
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Collaboration and communication', 'Collaboration and communication']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Owen Morgan
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Jaden Joshua
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'System architecture design', 'Deployment and scaling']
+Weakness: Inconsistent documentation practices
+
+Name: Joseph Alora
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Alistair Peyton
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Rachel Quinn
+Job Title: Data Scientist
+Skills: ['Data visualization', 'Data manipulation and cleaning', 'Statistical analysis and modeling']
+Weakness: Inconsistent documentation practices
+
+Name: Hadley Presley
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Dominic Fiona
+Job Title: Scrum Master
+Skills: ['Conflict resolution', 'Servant leadership', 'Metrics and reporting']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Makayla Presley
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning', 'Data manipulation and cleaning']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Carson Emily
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles', 'Usability testing', 'Wireframing and prototyping tools (e.g., Adobe XD, Sketch)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Ada Ethan
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Kennedy Kyle
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Inconsistent documentation practices
+
+Name: Blake Alan
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Acacia Bianca
+Job Title: Software Engineer
+Skills: ['Collaboration and communication']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Bodhi Destiny
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Servant leadership', 'Conflict resolution']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Rebecca Dominic
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Keegan Isaiah
+Job Title: Scrum Master
+Skills: ['Metrics and reporting']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Quentin Aldous
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Agile methodologies (Scrum, Kanban)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Sophia Anthony
+Job Title: Quality Assurance Analyst
+Skills: ['Bug tracking and reporting']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Cooper Rachel
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Aella Finn
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Julia Katherine
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Metrics and reporting', 'Agile methodologies (Scrum, Kanban)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Dakota Eden
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Bailey Amara
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Collaboration and communication', 'Collaboration and communication']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Daisy Amanda
+Job Title: Product Manager
+Skills: ['Project management']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Henry Alden
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies']
+Weakness: Inconsistent documentation practices
+
+Name: Ethan Jackson
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Server-side programming languages (e.g., Python, Java, Node.js)', 'API design and development']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Austin Angelina
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Project management']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: David Elora
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Anya Keegan
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Version control (e.g., Git)', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Arlo Anastasia
+Job Title: Frontend Developer
+Skills: ['UI/UX design principles', 'Cross-browser compatibility', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Alfie Olivia
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Conflict resolution']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Priya Catherine
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'Database management (SQL/NoSQL)', 'Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Bryce Aella
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency', 'UI/UX design principles']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Isabella Hadley
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Product strategy and roadmap planning', 'Market research and customer feedback analysis']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Casey Ethan
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Monitoring and logging solutions']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Brandon Alice
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Test planning and execution', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Justin Aaliyah
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Gabriella Bryan
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling', 'System architecture design']
+Weakness: Inconsistent documentation practices
+
+Name: Sarah Ryan
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'Cross-browser compatibility', 'Responsive web design']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Antonio Bryan
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'Cross-browser compatibility']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Kevin Bennett
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Kyle Alice
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Emilia Bryce
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles']
+Weakness: Inconsistent documentation practices
+
+Name: Alexander Anthony
+Job Title: UI/UX Designer
+Skills: ['Usability testing', 'Visual design skills', 'Wireframing and prototyping tools (e.g., Adobe XD, Sketch)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Hadley Alana
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'Deployment and scaling']
+Weakness: Inconsistent documentation practices
+
+Name: Lachlan Talia
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)']
+Weakness: Inconsistent documentation practices
+
+Name: Timothy Quentin
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Anastasia Alex
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Version control (e.g., Git)']
+Weakness: Inconsistent documentation practices
+
+Name: Jennifer Anastasia
+Job Title: Data Scientist
+Skills: ['Programming languages (e.g., Python, R)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Azalea Grace
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Problem-solving and debugging skills', 'Collaboration and communication']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Philip Adalyn
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'Proficiency in both frontend and backend technologies']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Riley Robert
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning']
+Weakness: Inconsistent documentation practices
+
+Name: Ryan Aella
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'Proficiency in both frontend and backend technologies']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Bellamy Alex
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Spencer Aisling
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling', 'Proficiency in both frontend and backend technologies']
+Weakness: Inconsistent documentation practices
+
+Name: Alyssa Brianna
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'Experience with frontend frameworks (e.g., React, Angular)', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Kai Agatha
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Machine learning algorithms', 'Data manipulation and cleaning']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Adam George
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Arlo Charlie
+Job Title: Quality Assurance Analyst
+Skills: ['Bug tracking and reporting', 'Attention to detail']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Charlotte Emily
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Problem-solving and debugging skills', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Inconsistent documentation practices
+
+Name: Albion Colin
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'Agile and Scrum methodologies']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Cole Dylan
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'API design and development', 'Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Aisha Hunter
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Cloud platforms (e.g., AWS, Azure, GCP)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Abagail Douglas
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Ashley Astrid
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Aiko Lachlan
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Inconsistent documentation practices
+
+Name: Jacob Adair
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing', 'Automated testing tools (e.g., Selenium, JUnit)', 'Attention to detail']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Katherine Jordan
+Job Title: Data Scientist
+Skills: ['Data visualization', 'Programming languages (e.g., Python, R)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Jackson Alaric
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Alana James
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Presley Ada
+Job Title: Data Scientist
+Skills: ['Programming languages (e.g., Python, R)', 'Data visualization']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Grace Cole
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'Proficiency in both frontend and backend technologies', 'Proficiency in both frontend and backend technologies']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Michelle Fiona
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Aisha Finn
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Charles Daniel
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)', 'Collaboration and communication']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Kylie Adelaide
+Job Title: UI/UX Designer
+Skills: ['Visual design skills', 'User-centered design principles']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: David Amanda
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Statistical analysis and modeling']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Brianna Jason
+Job Title: Product Manager
+Skills: ['Stakeholder communication', 'Market research and customer feedback analysis', 'Market research and customer feedback analysis']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Alcott Heather
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Peter Gavin
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Aldous Alden
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Containerization and orchestration (e.g., Docker, Kubernetes)', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Barrett Sydney
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Chloe Zoey
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Dean Morgan
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Dillon Steven
+Job Title: UI/UX Designer
+Skills: ['Visual design skills', 'Visual design skills', 'Visual design skills']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Albert Owen
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Stakeholder communication', 'Decision-making and prioritization']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Samantha Aaron
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Algorithm and data structure knowledge', 'Problem-solving and debugging skills']
+Weakness: Inconsistent documentation practices
+
+Name: Grant Dylan
+Job Title: Product Manager
+Skills: ['Stakeholder communication']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Mason Casey
+Job Title: Scrum Master
+Skills: ['Conflict resolution', 'Agile methodologies (Scrum, Kanban)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Christopher Jonathan
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'Wireframing and prototyping tools (e.g., Adobe XD, Sketch)', 'Visual design skills']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Declan Quentin
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Julian Ayden
+Job Title: Data Scientist
+Skills: ['Data visualization']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Adelaide Joseph
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Inconsistent documentation practices
+
+Name: Connor Charlie
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'Database management (SQL/NoSQL)']
+Weakness: Inconsistent documentation practices
+
+Name: Alistair Alayah
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Team facilitation and collaboration']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Angelina Alana
+Job Title: Product Manager
+Skills: ['Project management', 'Project management']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Dakota Anya
+Job Title: Software Engineer
+Skills: ['Collaboration and communication']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Robert Blair
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Data manipulation and cleaning', 'Data visualization']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Douglas Michael
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Brooklyn Colin
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'System architecture design', 'Agile and Scrum methodologies']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Joseph Kendall
+Job Title: Data Scientist
+Skills: ['Programming languages (e.g., Python, R)', 'Data visualization', 'Machine learning algorithms']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Cooper Alexis
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Test planning and execution']
+Weakness: Inconsistent documentation practices
+
+Name: Adelaide Jackson
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Emma Antonio
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Corey Dylan
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'API design and development']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Kai Craig
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Cyrus Danielle
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'UI/UX design principles']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Barrett Angelina
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Team facilitation and collaboration']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Blake Cody
+Job Title: Data Scientist
+Skills: ['Data visualization']
+Weakness: Inconsistent documentation practices
+
+Name: Adelaide Bailey
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Andrew Amber
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Arthur Daisy
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Adalyn Gregory
+Job Title: Frontend Developer
+Skills: ['UI/UX design principles', 'Cross-browser compatibility']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Ezekiel Cooper
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles', 'Collaboration with developers and stakeholders']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Julia Kaitlyn
+Job Title: UI/UX Designer
+Skills: ['Wireframing and prototyping tools (e.g., Adobe XD, Sketch)', 'Visual design skills']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Parker Aldous
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Austin Jason
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Jordan Albert
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Parker Jason
+Job Title: Product Manager
+Skills: ['Stakeholder communication', 'Product strategy and roadmap planning', 'Product strategy and roadmap planning']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Isaiah Beckett
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Aubrey Andrew
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles', 'Collaboration with developers and stakeholders', 'Wireframing and prototyping tools (e.g., Adobe XD, Sketch)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Quentin Bowen
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Jonathan Afra
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Version control (e.g., Git)', 'Version control (e.g., Git)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Amara Bryan
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Keegan Asher
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Inconsistent documentation practices
+
+Name: Bryce Amari
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Data manipulation and cleaning', 'Data manipulation and cleaning']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Amina Oliver
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Version control (e.g., Git)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Alex Alden
+Job Title: UI/UX Designer
+Skills: ['Wireframing and prototyping tools (e.g., Adobe XD, Sketch)', 'Usability testing']
+Weakness: Inconsistent documentation practices
+
+Name: Ayden Jared
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'HTML, CSS, and JavaScript proficiency', 'Responsive web design']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Dominic Steven
+Job Title: Data Scientist
+Skills: ['Programming languages (e.g., Python, R)', 'Data visualization']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Keegan Elora
+Job Title: Frontend Developer
+Skills: ['UI/UX design principles']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Adelaide Justin
+Job Title: Backend Developer
+Skills: ['API design and development']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Elijah Brianna
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Crystal Grant
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles', 'Collaboration with developers and stakeholders', 'User-centered design principles']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Olivia Liam
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Jaden Alastair
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Timothy Chloe
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Collaboration and communication', 'Collaboration and communication']
+Weakness: Inconsistent documentation practices
+
+Name: Gavin Olivia
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Albert Grayson
+Job Title: Backend Developer
+Skills: ['Authentication and authorization', 'API design and development']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Bennett Gabriella
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Alcott Jennifer
+Job Title: Backend Developer
+Skills: ['Authentication and authorization', 'Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Faith Gabriella
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency', 'Responsive web design', 'Responsive web design']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Ella Beckett
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Machine learning algorithms', 'Data visualization']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Cooper Bellamy
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Team facilitation and collaboration']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Kimberly Thomas
+Job Title: Product Manager
+Skills: ['Stakeholder communication']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Kylie Dean
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)', 'Algorithm and data structure knowledge']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Elizabeth Afra
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Conflict resolution', 'Servant leadership']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Danielle Jared
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Kennedy Mason
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'User-centered design principles']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Grace Bailey
+Job Title: Scrum Master
+Skills: ['Conflict resolution', 'Agile methodologies (Scrum, Kanban)', 'Team facilitation and collaboration']
+Weakness: Inconsistent documentation practices
+
+Name: Kyle Adrienne
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'Web security best practices']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Alexis Alex
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'Experience with frontend frameworks (e.g., React, Angular)', 'Cross-browser compatibility']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Alexander Cooper
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Kylie Donald
+Job Title: Product Manager
+Skills: ['Market research and customer feedback analysis']
+Weakness: Inconsistent documentation practices
+
+Name: Brooklyn Gabriel
+Job Title: Product Manager
+Skills: ['Decision-making and prioritization']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Jennifer Danielle
+Job Title: Backend Developer
+Skills: ['Authentication and authorization', 'Authentication and authorization', 'Authentication and authorization']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Taylor Gregory
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Antonio Cordelia
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Justin Blake
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Agile methodologies (Scrum, Kanban)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Bellamy Mason
+Job Title: Backend Developer
+Skills: ['Authentication and authorization', 'Web security best practices']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Owen Brooklyn
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Dakota Oliver
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Conflict resolution', 'Team facilitation and collaboration']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Mason Fallon
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Victoria Henry
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Kayla Amy
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'Web security best practices']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Sophia Harper
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Market research and customer feedback analysis']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Rebecca Dean
+Job Title: Product Manager
+Skills: ['Decision-making and prioritization', 'Product strategy and roadmap planning', 'Decision-making and prioritization']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Alcott Joseph
+Job Title: Product Manager
+Skills: ['Market research and customer feedback analysis']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Anastasia Alfie
+Job Title: Full Stack Developer
+Skills: ['System architecture design']
+Weakness: Inconsistent documentation practices
+
+Name: Spencer Rachel
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Bianca Kevin
+Job Title: UI/UX Designer
+Skills: ['Usability testing', 'Visual design skills']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Abraham Emma
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Statistical analysis and modeling']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Ryan Sebastian
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'API design and development']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Zoey Beckett
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Anthony Arthur
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Inconsistent documentation practices
+
+Name: Kevin Rachel
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Inconsistent documentation practices
+
+Name: Timothy Courtney
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning', 'Programming languages (e.g., Python, R)', 'Programming languages (e.g., Python, R)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Elizabeth Hannah
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'Deployment and scaling']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Bailey Aisling
+Job Title: Full Stack Developer
+Skills: ['System architecture design', 'Agile and Scrum methodologies']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Catherine Cyrus
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Servant leadership']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Adam Aisling
+Job Title: Quality Assurance Analyst
+Skills: ['Bug tracking and reporting']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Brooklyn Beckett
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Bug tracking and reporting', 'Attention to detail']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Destiny Fiona
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Brittany Taylor
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Karen Owen
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'Visual design skills', 'Wireframing and prototyping tools (e.g., Adobe XD, Sketch)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Talia Alan
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Alden Elijah
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Stakeholder communication']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Hazel Jessica
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Team facilitation and collaboration']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Robert Beckett
+Job Title: Product Manager
+Skills: ['Market research and customer feedback analysis', 'Market research and customer feedback analysis']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Peter Elora
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Andrea Kyle
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency', 'Responsive web design', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Kyle Kendall
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Team facilitation and collaboration', 'Servant leadership']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Cole Bryan
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning', 'Data visualization', 'Data manipulation and cleaning']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Sebastian Peyton
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Bug tracking and reporting']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Gabriella Evan
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Team facilitation and collaboration', 'Team facilitation and collaboration']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Arlo Riley
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Julia Adelaide
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Database management (SQL/NoSQL)', 'Authentication and authorization']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Aaliyah Hunter
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Sarah Madison
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'Collaboration with developers and stakeholders']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Aisha Taylor
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Proficiency in a programming language (e.g., Python, Java, C++)', 'Collaboration and communication']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Ryan Charlotte
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling', 'System architecture design']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Alastair Aiko
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Alaina Beckett
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Jasmine Timothy
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'Agile and Scrum methodologies']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Aleah Corey
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'API design and development']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Fernando Samantha
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Elizabeth Blair
+Job Title: Product Manager
+Skills: ['Stakeholder communication', 'Market research and customer feedback analysis']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Anastasia Oliver
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development']
+Weakness: Limited experience with legacy code maintenance
+
+Name: George Alden
+Job Title: Data Scientist
+Skills: ['Data visualization']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Albion Dominic
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Jordan Brooklyn
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Craig Zachary
+Job Title: Quality Assurance Analyst
+Skills: ['Test planning and execution']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Alcott Kaitlyn
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Rebecca Isaiah
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'Deployment and scaling']
+Weakness: Inconsistent documentation practices
+
+Name: Adrienne Hunter
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Angelina Timothy
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'UI/UX design principles']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Douglas Mia
+Job Title: Product Manager
+Skills: ['Stakeholder communication']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Jesus Stephanie
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Alexis Dakota
+Job Title: Backend Developer
+Skills: ['API design and development']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Evan Declan
+Job Title: Data Scientist
+Skills: ['Data visualization', 'Data manipulation and cleaning', 'Data visualization']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Spencer Alaric
+Job Title: Full Stack Developer
+Skills: ['System architecture design', 'Agile and Scrum methodologies', 'Proficiency in both frontend and backend technologies']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Samuel Sebastian
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Isabella Oliver
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Jennifer Aspen
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning', 'Data visualization']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Kennedy Priya
+Job Title: Full Stack Developer
+Skills: ['System architecture design', 'System architecture design', 'Agile and Scrum methodologies']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Charlie Craig
+Job Title: Product Manager
+Skills: ['Project management']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Diego Anya
+Job Title: Backend Developer
+Skills: ['API design and development', 'Database management (SQL/NoSQL)', 'API design and development']
+Weakness: Inconsistent documentation practices
+
+Name: Fallon Carson
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Data manipulation and cleaning']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Dakota Jacob
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Arthur Parker
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Market research and customer feedback analysis', 'Market research and customer feedback analysis']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Gregory Douglas
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'System architecture design']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Keegan Diana
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Samuel Parker
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Jaden Presley
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'End-to-end application development', 'Deployment and scaling']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Robert Adrian
+Job Title: Product Manager
+Skills: ['Market research and customer feedback analysis', 'Stakeholder communication', 'Product strategy and roadmap planning']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Vanessa Chloe
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Kayla Jason
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders']
+Weakness: Inconsistent documentation practices
+
+Name: Avery Hadley
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Priya Jonathan
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'Database management (SQL/NoSQL)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Craig Connor
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Servant leadership', 'Conflict resolution']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Alfie Julian
+Job Title: Full Stack Developer
+Skills: ['System architecture design']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Jackson Dominic
+Job Title: UI/UX Designer
+Skills: ['Wireframing and prototyping tools (e.g., Adobe XD, Sketch)', 'Collaboration with developers and stakeholders']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Kaitlyn Douglas
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Eden Faith
+Job Title: Data Scientist
+Skills: ['Data visualization', 'Data visualization']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Samuel Blaine
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Cloud platforms (e.g., AWS, Azure, GCP)', 'Cloud platforms (e.g., AWS, Azure, GCP)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Heather Corey
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Algorithm and data structure knowledge']
+Weakness: Inconsistent documentation practices
+
+Name: Talia Caleb
+Job Title: Quality Assurance Analyst
+Skills: ['Bug tracking and reporting', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Adira Mason
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'System architecture design', 'System architecture design']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Bodhi Vanessa
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Product strategy and roadmap planning']
+Weakness: Inconsistent documentation practices
+
+Name: Alcott Grace
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Hadley Casey
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Database management (SQL/NoSQL)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Brandon Quentin
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Owen Noah
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Victoria Angelina
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Brooklyn Owen
+Job Title: Software Engineer
+Skills: ['Collaboration and communication']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Cooper Ethan
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Regression and performance testing']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Gregory Blair
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions', 'Monitoring and logging solutions']
+Weakness: Inconsistent documentation practices
+
+Name: Albion Brianna
+Job Title: Quality Assurance Analyst
+Skills: ['Test planning and execution', 'Attention to detail', 'Regression and performance testing']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Griffin Abigail
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'Agile and Scrum methodologies', 'Deployment and scaling']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Carter Talia
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Servant leadership', 'Servant leadership']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Gavin Evan
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Product strategy and roadmap planning', 'Decision-making and prioritization']
+Weakness: Inconsistent documentation practices
+
+Name: Aubrey Bodhi
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Algorithm and data structure knowledge']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Kylie Ayden
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Grayson Riley
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency', 'Experience with frontend frameworks (e.g., React, Angular)', 'Cross-browser compatibility']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Alastair Charlie
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Alistair Fallon
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Web security best practices', 'API design and development']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Cole Amy
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Hazel Blake
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: George Michael
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Metrics and reporting']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Cameron Astrid
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)', 'Proficiency in a programming language (e.g., Python, Java, C++)', 'Version control (e.g., Git)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Michael Catherine
+Job Title: Product Manager
+Skills: ['Market research and customer feedback analysis']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Kayla Astrid
+Job Title: Backend Developer
+Skills: ['API design and development']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Emilia Catherine
+Job Title: Full Stack Developer
+Skills: ['System architecture design', 'System architecture design', 'End-to-end application development']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Robert Spencer
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Web security best practices', 'Authentication and authorization']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Jackson Jason
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'End-to-end application development', 'Deployment and scaling']
+Weakness: Inconsistent documentation practices
+
+Name: Adira Aspen
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions', 'Monitoring and logging solutions', 'Monitoring and logging solutions']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Albert Diego
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Cole Anastasia
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Gwendolyn Abraham
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Grant Bodhi
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Ezekiel Ayden
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'Collaboration with developers and stakeholders', 'Collaboration with developers and stakeholders']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Katherine Alistair
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'End-to-end application development']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Steven Harper
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail', 'Regression and performance testing']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Talia Aisling
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Samuel Aleah
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Barrett Arlo
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'Cross-browser compatibility']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Danielle Jonathan
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Alexander Madison
+Job Title: Software Engineer
+Skills: ['Collaboration and communication']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Vanessa Bellamy
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Ezekiel Rebecca
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Agile methodologies (Scrum, Kanban)', 'Team facilitation and collaboration']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Charlie Jaden
+Job Title: Product Manager
+Skills: ['Stakeholder communication', 'Project management', 'Market research and customer feedback analysis']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Grace Aleah
+Job Title: Frontend Developer
+Skills: ['Responsive web design']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Ezekiel Douglas
+Job Title: Backend Developer
+Skills: ['API design and development', 'Web security best practices']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Amanda Jackson
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Gabriella Peter
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Team facilitation and collaboration']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Chloe Eden
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Version control (e.g., Git)', 'Collaboration and communication']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Jonathan Keegan
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'Authentication and authorization', 'API design and development']
+Weakness: Inconsistent documentation practices
+
+Name: Danielle Fallon
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Team facilitation and collaboration', 'Servant leadership']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Jesus Thomas
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Monitoring and logging solutions']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Jesus Alfie
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Kai Brittany
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Monitoring and logging solutions']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Bailey Julia
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Anastasia Bianca
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Albion Grace
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Monitoring and logging solutions', 'Monitoring and logging solutions']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Kayla Amanda
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'Cross-browser compatibility', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Mia Alora
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: David Alastair
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Machine learning algorithms']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Morgan Finn
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Cloud platforms (e.g., AWS, Azure, GCP)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Beckett Isaiah
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Team facilitation and collaboration']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Azalea Jessica
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions', 'Cloud platforms (e.g., AWS, Azure, GCP)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Bailey Kimberly
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Katherine Astrid
+Job Title: Software Engineer
+Skills: ['Collaboration and communication', 'Collaboration and communication']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Julia Danielle
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Adalyn Adrienne
+Job Title: Software Engineer
+Skills: ['Collaboration and communication', 'Collaboration and communication', 'Problem-solving and debugging skills']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Sophia Kai
+Job Title: Product Manager
+Skills: ['Decision-making and prioritization']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Mia Morgan
+Job Title: Product Manager
+Skills: ['Decision-making and prioritization']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Kylie Alden
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'UI/UX design principles']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Alora Dean
+Job Title: Product Manager
+Skills: ['Project management', 'Product strategy and roadmap planning', 'Project management']
+Weakness: Inconsistent documentation practices
+
+Name: Jaden Anthony
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Statistical analysis and modeling', 'Machine learning algorithms']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Dakota Alora
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Metrics and reporting']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Fallon Lachlan
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling', 'Proficiency in both frontend and backend technologies', 'Agile and Scrum methodologies']
+Weakness: Inconsistent documentation practices
+
+Name: Isaiah Mason
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Statistical analysis and modeling']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Anthony Cyrus
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Containerization and orchestration (e.g., Docker, Kubernetes)', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Olivia Amber
+Job Title: UI/UX Designer
+Skills: ['Usability testing']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Amy Aubrey
+Job Title: UI/UX Designer
+Skills: ['Visual design skills', 'User-centered design principles', 'Wireframing and prototyping tools (e.g., Adobe XD, Sketch)']
+Weakness: Inconsistent documentation practices
+
+Name: Arlo Nicholas
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Metrics and reporting']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Stephanie Acacia
+Job Title: Quality Assurance Analyst
+Skills: ['Bug tracking and reporting', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Aspen Noah
+Job Title: Scrum Master
+Skills: ['Conflict resolution', 'Team facilitation and collaboration', 'Team facilitation and collaboration']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Nicholas Fiona
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Bowen Harper
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Hannah Taylor
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Avery Cameron
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Michael Aeon
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Jaden Riley
+Job Title: Scrum Master
+Skills: ['Conflict resolution']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Kimberly Piper
+Job Title: UI/UX Designer
+Skills: ['Wireframing and prototyping tools (e.g., Adobe XD, Sketch)', 'Collaboration with developers and stakeholders', 'Visual design skills']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Alan Alexander
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Morgan Karen
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Brandon Connor
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Project management', 'Project management']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Alan Beckett
+Job Title: Software Engineer
+Skills: ['Collaboration and communication', 'Version control (e.g., Git)', 'Algorithm and data structure knowledge']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Jacob Steven
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Abagail Oliver
+Job Title: Full Stack Developer
+Skills: ['System architecture design', 'Deployment and scaling', 'Proficiency in both frontend and backend technologies']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Gabriel Julia
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'API design and development', 'Web security best practices']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Vanessa Samuel
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Jonathan Kyle
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Julian George
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Programming languages (e.g., Python, R)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Stephanie Alan
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Inconsistent documentation practices
+
+Name: Jonathan Charles
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Data visualization', 'Statistical analysis and modeling']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Fiona Spencer
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Noah Adrienne
+Job Title: Full Stack Developer
+Skills: ['Deployment and scaling', 'Agile and Scrum methodologies', 'System architecture design']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Benjamin Blaine
+Job Title: Data Scientist
+Skills: ['Data visualization', 'Statistical analysis and modeling']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: William Stephanie
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Programming languages (e.g., Python, R)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Parker Aldous
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Jennifer Benjamin
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Agile methodologies (Scrum, Kanban)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Brandon Adalyn
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles', 'User-centered design principles']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Makayla Gavin
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'Cross-browser compatibility']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Grace Aaliyah
+Job Title: Software Engineer
+Skills: ['Collaboration and communication']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Asher Gabriel
+Job Title: Scrum Master
+Skills: ['Conflict resolution', 'Conflict resolution']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Andrew Arlo
+Job Title: UI/UX Designer
+Skills: ['User-centered design principles', 'Collaboration with developers and stakeholders']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Cooper Colin
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Benjamin Dean
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Zachary Aella
+Job Title: Backend Developer
+Skills: ['API design and development']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Bowen Ella
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'Collaboration with developers and stakeholders', 'User-centered design principles']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Adair Bryce
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms', 'Data visualization', 'Programming languages (e.g., Python, R)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Anastasia Fallon
+Job Title: Software Engineer
+Skills: ['Collaboration and communication', 'Algorithm and data structure knowledge', 'Version control (e.g., Git)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Justin Brianna
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'Database management (SQL/NoSQL)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Ryan Alcott
+Job Title: Full Stack Developer
+Skills: ['Agile and Scrum methodologies', 'End-to-end application development', 'End-to-end application development']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Kylie Bianca
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail', 'Bug tracking and reporting']
+Weakness: Inconsistent documentation practices
+
+Name: Grant Bianca
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Riley Devin
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Regression and performance testing', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Eden Finn
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Jesus Adira
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Dean Astrid
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Aaron Abagail
+Job Title: Data Scientist
+Skills: ['Data visualization', 'Machine learning algorithms', 'Programming languages (e.g., Python, R)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Azalea Elizabeth
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Corey Kylie
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Cloud platforms (e.g., AWS, Azure, GCP)']
+Weakness: Inconsistent documentation practices
+
+Name: Brooklyn Audrey
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Conflict resolution', 'Metrics and reporting']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Cyrus Amelia
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Monitoring and logging solutions']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Priya Nathan
+Job Title: Data Scientist
+Skills: ['Data visualization']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Charlie Devin
+Job Title: Quality Assurance Analyst
+Skills: ['Test planning and execution', 'Bug tracking and reporting']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Rachel Arlo
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Jonathan Logan
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Project management']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Oliver Alden
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Alan Brandon
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Cloud platforms (e.g., AWS, Azure, GCP)', 'Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Julian Astrid
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Elijah Brooklyn
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Machine learning algorithms', 'Data manipulation and cleaning']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Anastasia Ella
+Job Title: Scrum Master
+Skills: ['Metrics and reporting']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Kennedy Griffin
+Job Title: Data Scientist
+Skills: ['Programming languages (e.g., Python, R)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Adira Michael
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Carl Alistair
+Job Title: Product Manager
+Skills: ['Market research and customer feedback analysis']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Douglas Dominic
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Bianca Spencer
+Job Title: Product Manager
+Skills: ['Stakeholder communication']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Hazel Sydney
+Job Title: Backend Developer
+Skills: ['Web security best practices', 'Web security best practices']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Gwendolyn Priya
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'System architecture design']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Angelina Victoria
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Lachlan Jason
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'UI/UX design principles', 'UI/UX design principles']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Joshua David
+Job Title: Quality Assurance Analyst
+Skills: ['Bug tracking and reporting', 'Bug tracking and reporting', 'Attention to detail']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Aiko Declan
+Job Title: UI/UX Designer
+Skills: ['Visual design skills', 'User-centered design principles', 'User-centered design principles']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Joshua Aubrey
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Presley Agatha
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Cody Elizabeth
+Job Title: Backend Developer
+Skills: ['API design and development', 'API design and development', 'API design and development']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Benjamin Henry
+Job Title: Product Manager
+Skills: ['Project management', 'Decision-making and prioritization', 'Decision-making and prioritization']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Rachel Joseph
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)', 'Version control (e.g., Git)', 'Problem-solving and debugging skills']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Dillon Abigail
+Job Title: Backend Developer
+Skills: ['API design and development']
+Weakness: Inconsistent documentation practices
+
+Name: Fiona Crystal
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency', 'Experience with frontend frameworks (e.g., React, Angular)', 'Responsive web design']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Alastair Afra
+Job Title: Product Manager
+Skills: ['Decision-making and prioritization']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Peter Julian
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Market research and customer feedback analysis']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Michael Sydney
+Job Title: Quality Assurance Analyst
+Skills: ['Test planning and execution', 'Regression and performance testing', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Talia Amina
+Job Title: UI/UX Designer
+Skills: ['Wireframing and prototyping tools (e.g., Adobe XD, Sketch)', 'Visual design skills']
+Weakness: Inconsistent documentation practices
+
+Name: Julian Bowen
+Job Title: Data Scientist
+Skills: ['Programming languages (e.g., Python, R)', 'Statistical analysis and modeling']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Stephanie Sebastian
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Metrics and reporting']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Amelia Aisling
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)', 'Cloud platforms (e.g., AWS, Azure, GCP)', 'Monitoring and logging solutions']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: David Dillon
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Agatha Emilia
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Alfie Charlotte
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'Database management (SQL/NoSQL)', 'Database management (SQL/NoSQL)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Heather Karen
+Job Title: UI/UX Designer
+Skills: ['Visual design skills']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Samuel Henry
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Alan Faith
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Jackson Abagail
+Job Title: Quality Assurance Analyst
+Skills: ['Test planning and execution', 'Attention to detail', 'Regression and performance testing']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: William Alex
+Job Title: Full Stack Developer
+Skills: ['End-to-end application development', 'Deployment and scaling']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Heather Douglas
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Monitoring and logging solutions']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: David Carson
+Job Title: DevOps Engineer
+Skills: ['Infrastructure as Code (IaC) tools (e.g., Terraform, CloudFormation)']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Anya Bryce
+Job Title: Scrum Master
+Skills: ['Conflict resolution']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Matthew Dakota
+Job Title: Data Scientist
+Skills: ['Data manipulation and cleaning', 'Statistical analysis and modeling', 'Statistical analysis and modeling']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Isabella Casey
+Job Title: Scrum Master
+Skills: ['Conflict resolution', 'Servant leadership']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Amber Samuel
+Job Title: DevOps Engineer
+Skills: ['Cloud platforms (e.g., AWS, Azure, GCP)', 'Monitoring and logging solutions']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Peter Cole
+Job Title: Full Stack Developer
+Skills: ['System architecture design']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Eden Presley
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'Cross-browser compatibility', 'UI/UX design principles']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Charlie Morgan
+Job Title: Product Manager
+Skills: ['Project management', 'Decision-making and prioritization']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Hannah Aspen
+Job Title: Scrum Master
+Skills: ['Team facilitation and collaboration', 'Conflict resolution']
+Weakness: Inconsistent documentation practices
+
+Name: Timothy Amber
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Data visualization']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Aisling Alyssa
+Job Title: Software Engineer
+Skills: ['Collaboration and communication']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Aeon Emilia
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Version control (e.g., Git)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Fernando Declan
+Job Title: Quality Assurance Analyst
+Skills: ['Regression and performance testing', 'Automated testing tools (e.g., Selenium, JUnit)', 'Test planning and execution']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Asher Abagail
+Job Title: DevOps Engineer
+Skills: ['Containerization and orchestration (e.g., Docker, Kubernetes)', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Gabriella Dillon
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Attention to detail', 'Regression and performance testing']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Kai Parker
+Job Title: Backend Developer
+Skills: ['Server-side programming languages (e.g., Python, Java, Node.js)', 'Web security best practices', 'Authentication and authorization']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Brittany David
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Stakeholder communication', 'Market research and customer feedback analysis']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Diana Destiny
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'Server-side programming languages (e.g., Python, Java, Node.js)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Ashley Ethan
+Job Title: Backend Developer
+Skills: ['Database management (SQL/NoSQL)', 'Authentication and authorization']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Cooper Ada
+Job Title: Frontend Developer
+Skills: ['UI/UX design principles', 'HTML, CSS, and JavaScript proficiency', 'Cross-browser compatibility']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Alayah David
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders', 'Collaboration with developers and stakeholders', 'Visual design skills']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Anthony Harper
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Problem-solving and debugging skills', 'Problem-solving and debugging skills']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Alastair Astrid
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'Responsive web design']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Samuel Aldous
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Kennedy Jacob
+Job Title: Product Manager
+Skills: ['Stakeholder communication']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Eden Jason
+Job Title: Backend Developer
+Skills: ['Authentication and authorization']
+Weakness: Reluctance to ask for help or clarification when facing challenges
+
+Name: Nathan Cyrus
+Job Title: Frontend Developer
+Skills: ['HTML, CSS, and JavaScript proficiency']
+Weakness: Inconsistent documentation practices
+
+Name: Spencer Caleb
+Job Title: Scrum Master
+Skills: ['Metrics and reporting', 'Metrics and reporting', 'Conflict resolution']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Casey Hunter
+Job Title: Scrum Master
+Skills: ['Servant leadership', 'Servant leadership', 'Team facilitation and collaboration']
+Weakness: Inconsistent documentation practices
+
+Name: Blaine Aspen
+Job Title: Backend Developer
+Skills: ['Authentication and authorization']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Aaliyah Daisy
+Job Title: Backend Developer
+Skills: ['Authentication and authorization', 'API design and development']
+Weakness: Inconsistent documentation practices
+
+Name: Elizabeth Adira
+Job Title: Quality Assurance Analyst
+Skills: ['Test planning and execution', 'Bug tracking and reporting', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Piper Ashley
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Version control (e.g., Git)', 'Algorithm and data structure knowledge']
+Weakness: Occasional resistance to adopting new programming languages or technologies
+
+Name: Brandon Gabriel
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies']
+Weakness: Tendency to overcomplicate solutions instead of keeping them simple
+
+Name: Douglas Connor
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Heather Alayah
+Job Title: Software Engineer
+Skills: ['Problem-solving and debugging skills', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Keegan Benjamin
+Job Title: Backend Developer
+Skills: ['Web security best practices']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Emma Evan
+Job Title: DevOps Engineer
+Skills: ['Monitoring and logging solutions']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Karen Dakota
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling', 'Machine learning algorithms', 'Machine learning algorithms']
+Weakness: Inconsistent documentation practices
+
+Name: Harper Devin
+Job Title: DevOps Engineer
+Skills: ['Continuous Integration/Continuous Deployment (CI/CD) pipelines', 'Monitoring and logging solutions', 'Continuous Integration/Continuous Deployment (CI/CD) pipelines']
+Weakness: Inconsistent documentation practices
+
+Name: Tyler Gabriel
+Job Title: Frontend Developer
+Skills: ['Responsive web design', 'Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Liam Destiny
+Job Title: Product Manager
+Skills: ['Project management', 'Project management', 'Decision-making and prioritization']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Bianca Kendall
+Job Title: Full Stack Developer
+Skills: ['System architecture design']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Brooklyn Jared
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'System architecture design']
+Weakness: Inconsistent documentation practices
+
+Name: Brianna Liam
+Job Title: Software Engineer
+Skills: ['Version control (e.g., Git)', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Sydney Diana
+Job Title: Software Engineer
+Skills: ['Collaboration and communication', 'Collaboration and communication']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Andrea Grayson
+Job Title: UI/UX Designer
+Skills: ['Collaboration with developers and stakeholders']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Evelyn Isaiah
+Job Title: Frontend Developer
+Skills: ['UI/UX design principles', 'Experience with frontend frameworks (e.g., React, Angular)', 'Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Kaitlyn Ethan
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: James Charlie
+Job Title: Frontend Developer
+Skills: ['Experience with frontend frameworks (e.g., React, Angular)', 'Cross-browser compatibility', 'HTML, CSS, and JavaScript proficiency']
+Weakness: Inconsistent documentation practices
+
+Name: Evan Jared
+Job Title: Full Stack Developer
+Skills: ['Proficiency in both frontend and backend technologies', 'System architecture design']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Hadley Gavin
+Job Title: Data Scientist
+Skills: ['Machine learning algorithms']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Amber Tyler
+Job Title: Data Scientist
+Skills: ['Statistical analysis and modeling']
+Weakness: Struggle with maintaining work-life balance during tight deadlines
+
+Name: Cameron Lachlan
+Job Title: Software Engineer
+Skills: ['Algorithm and data structure knowledge', 'Problem-solving and debugging skills']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Matthew Timothy
+Job Title: Frontend Developer
+Skills: ['Cross-browser compatibility', 'Cross-browser compatibility', 'Experience with frontend frameworks (e.g., React, Angular)']
+Weakness: Trouble communicating technical concepts to non-technical team members
+
+Name: Jessica Karen
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Inconsistent documentation practices
+
+Name: Ashley Beckett
+Job Title: Scrum Master
+Skills: ['Agile methodologies (Scrum, Kanban)', 'Agile methodologies (Scrum, Kanban)']
+Weakness: Limited experience with legacy code maintenance
+
+Name: Agatha Stephanie
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Casey Adalyn
+Job Title: Product Manager
+Skills: ['Product strategy and roadmap planning', 'Project management', 'Market research and customer feedback analysis']
+Weakness: Difficulty in handling abrupt changes in project requirements
+
+Name: Bailey Gavin
+Job Title: Frontend Developer
+Skills: ['UI/UX design principles', 'UI/UX design principles', 'UI/UX design principles']
+Weakness: Difficulty in estimating project timelines accurately
+
+Name: Michelle Madison
+Job Title: Quality Assurance Analyst
+Skills: ['Attention to detail']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Abigail Corey
+Job Title: Scrum Master
+Skills: ['Conflict resolution']
+Weakness: Impatience with repetitive or monotonous tasks
+
+Name: Ella Jordan
+Job Title: Software Engineer
+Skills: ['Proficiency in a programming language (e.g., Python, Java, C++)', 'Proficiency in a programming language (e.g., Python, Java, C++)']
+Weakness: Inconsistent documentation practices
+
+Name: Christopher Acacia
+Job Title: Quality Assurance Analyst
+Skills: ['Automated testing tools (e.g., Selenium, JUnit)', 'Automated testing tools (e.g., Selenium, JUnit)']
+Weakness: Limited experience with legacy code maintenance
+
